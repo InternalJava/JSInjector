@@ -13,5 +13,5 @@
  ```
 ### Requirements 
 - [x] Python
-- [ ] Selenium
-- [ ] Internet connection
+- [x] Selenium
+- [x] Internet connection
