@@ -12,6 +12,6 @@
  $ python3 main.py
  ```
 ### Requirements
-[-] Python
-[-] Selenium
-[-] Internet connection
+ [-] Python 
+ [-] Selenium 
+ [-] Internet connection
