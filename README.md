@@ -11,7 +11,7 @@
  $ pip install -m selenium
  $ python3 main.py
  ```
-### Requirements
- [-] Python 
- [-] Selenium 
- [-] Internet connection
+### Requirements 
+- [x] Python
+- [ ] Selenium
+- [ ] Internet connection
